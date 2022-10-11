@@ -17,7 +17,7 @@ npm start
 To execute Test cases, we will run the below command
 npm test
 
-To Execute the SonarQube Repor, execute the below command.
+To Execute the SonarQube Report, execute the below command.
 
 npm run sonar
 
